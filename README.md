@@ -16,15 +16,14 @@ WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 
-## Mock-Up
+# Github Repo
 
-The following image shows the web application's appearance and functionality:
-
-![mock-up](./images/mock-up.png)
+https://github.com/GDav24/pwa
 
 
 ## Deployed Application URL:
 
-https://ancient-journey-63025.herokuapp.com/
+https://gdav24.github.io/pwa/
+
 
 
